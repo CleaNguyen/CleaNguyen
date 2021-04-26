@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CleaNguyen, I'm a web development student. 
-- 👀 I’m interested in front end web development and web design!
+- 👋 Hi, I’m @CleaNguyen and I'm studying web development. 
+- 👀 I’m interested in front end web development and web design
 - 🌱 I’m currently learning about the Web Audio API 
-- 💞️ I’m looking to collaborate on any front-end projects involving HTML5, CSS3, JavaScript/Jquery
+- 💞️ I’m looking to collaborate on any front-end projects involving HTML5, CSS3, JavaScript/Jquery and more to grow my portfolio =)
 - 📫 How to reach me: clea.nguyen@icloud.com
 
 <!---
